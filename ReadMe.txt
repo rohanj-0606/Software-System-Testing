@@ -1,5 +1,9 @@
+Java based application to demonstrate different types of testing - 
+1. Model Based Testing
+2. Default (Ghost) Transition Pair Testing
+3. Multiple Condition Testing
+
 Name: Rohan Suresh Jain
-CWID: A20378201
 CS-589 Final Project
 
 1. Executable folder contains executable files(account.jar) along with readme.txt file that gives the instructions to run it.
